@@ -3,7 +3,7 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
-<h1 align="center">
+<h1>
   Base Web React UI Framework Gatsby Starter
 </h1>
 Base Web is a foundation for initiating, evolving, and unifying web products. 
